@@ -1,0 +1,30 @@
+# Ignore dataset folder completely
+Datasets/
+Datasets/*
+
+# Ignore common data files anywhere
+*.csv
+*.xlsx
+*.parquet
+*.zip
+*.gz
+*.rar
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment files
+.env
+.venv/
+venv/
+
+# VSCode settings
+.vscode/
+
+# Ignore large data / temp files
+*.log
