@@ -37,7 +37,8 @@ Dataset is NOT included due to size. Download it from Kaggle (link below).
 > Add your screenshots to the `/images` folder and replace the filenames below.
 
 ### **1. Active Vehicles Distribution (Boxplot)**
-![Boxplot](images/active_vehicles_boxplot.png)
+<img width="816" height="355" alt="image" src="https://github.com/user-attachments/assets/15d94f22-d3a1-4343-8d0f-40b942240422" />
+
 
 ### **2. Active Vehicles Density (Violin Plot)**
 ![Violin Plot](images/active_vehicles_violin.png)
